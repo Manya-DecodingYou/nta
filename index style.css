@@ -1,0 +1,294 @@
+.heading
+{
+    height: 20px;
+    background-color: rgb(12, 4, 66);
+    color: aliceblue;
+    padding-left: 40px;
+}
+
+.mainhead
+{
+    height: 80px;
+    background-color: white;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+ #me{
+    height: 60px;
+    width:50px;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+#logo
+{
+    height: 60px;
+    width:70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-left: 2px solid brown;
+}
+
+
+
+
+.div1{
+    height: 50px;
+  
+    color: aquamarine;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.div1:hover
+{
+    background-color: rgb(12, 4, 66);
+ /* display: block; */
+ border: 2px solid black;
+ color: aliceblue;
+}
+
+.div2{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 40px;
+    width: 60px;
+    border: 2px solid transparent;
+}
+
+.div2:hover
+{
+    background-color: rgb(12, 4, 66);
+ /* display: block; */
+ border: 2px solid black;
+ color: aliceblue;
+}
+
+
+
+.div3{
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    height: 40px;
+    width: 70px;
+    border: 2px solid transparent;
+}
+
+
+.div3:hover
+{
+    background-color: rgb(12, 4, 66);
+ /* display: block; */
+ border: 2px solid black;
+ color: aliceblue;
+}
+
+
+
+.div4{
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    height: 40px;
+    width: 70px;
+    border: 2px solid transparent;
+}
+
+
+.div4:hover
+{
+    background-color: rgb(12, 4, 66);
+ /* display: block; */
+ border: 2px solid black;
+ color: aliceblue;
+}
+
+
+
+
+.div5{
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    height: 40px;
+    width: 70px;
+    border: 2px solid transparent;
+}
+
+
+.div5:hover
+{
+    background-color: rgb(12, 4, 66);
+ /* display: block; */
+ border: 2px solid black;
+ color: aliceblue;
+}
+
+
+.div6{
+    display: flex;
+    padding-left: 10px;
+    align-items: center;
+    text-align: center;
+    justify-content:flex-start;
+    height: 40px;
+    width: 70px;
+    border: 2px solid transparent;
+}
+
+
+.div6:hover
+{
+    background-color: rgb(12, 4, 66);
+ /* display: block; */
+ border: 2px solid black;
+ color: aliceblue;
+}
+
+
+.div7{
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    height: 40px;
+    width: 70px;
+    border: 2px solid transparent;
+}
+
+
+.div7:hover
+{
+    background-color: rgb(12, 4, 66);
+ /* display: block; */
+ border: 2px solid black;
+ color: aliceblue;
+}
+
+.div8{
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    height: 40px;
+    width: 70px;
+    border: 2px solid transparent;
+}
+
+
+.div8:hover
+{
+    background-color: rgb(12, 4, 66);
+ /* display: block; */
+ border: 2px solid black;
+ color: aliceblue;
+}
+
+
+.div9{
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    height: 40px;
+    width: 80px;
+    border: 2px solid transparent;
+}
+
+
+.div9:hover
+{
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    height: 40px;
+    width: 80px;
+
+    background-color: rgb(12, 4, 66);
+ /* display: block; */
+ border: 2px solid black;
+ color: aliceblue;
+}
+
+.div10{
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    height: 40px;
+    width: 70px;
+    border: 2px solid transparent;
+}
+
+
+.div10:hover
+{
+    background-color: rgb(12, 4, 66);
+ /* display: block; */
+ border: 2px solid black;
+ color: aliceblue;
+}
+
+
+.body
+{
+    height: 600px;
+    background-color: rgb(12, 4, 66);
+    display: flex;
+    align-items: flex-end;
+}
+
+.text
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 400px;
+    width: 10px;
+    padding-top:100px ;
+    padding-bottom:100px ;
+    color: aliceblue;
+    padding-left: 150px;
+    text-align: center;
+    margin-right: 10px;
+}
+#type
+{
+    height: 400px;
+    padding-top:100px ;
+    padding-bottom:100px ;
+    padding-left: 344px; 
+    padding-right: 0px;
+
+}
+
+/* .hover :hover
+{
+ background-color: rgb(12, 4, 66);
+ display: block;
+ border: 2px soli black;
+} */
+
+.hover
+{
+  
+    height: 40px;
+    width: 50px;
+    border: 2px solid transparent;
+    background-color: black;
+}
+
+.hover:hover
+{
+ background-color: rgb(12, 4, 66);
+ display: block;
+ border: 2px solid black;
+}
